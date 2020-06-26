@@ -44,4 +44,4 @@ From a business perspective,this project will address absenteeism at a company d
  for the fresh new data as Absenteeism_new_data.csv save it in Absenteeism_predictions.csv and use tableau as a visualization tool
  ## Visualizations:
  Probability that a given individual is expected to be absent from work for more than 3 hours :
- (https://github.com/Rish59/Predicting-Absenteeism/blob/master/Age%20vs%20Probability.png,"With Age")
+ ![alt text] (https://github.com/Rish59/Predicting-Absenteeism/blob/master/Age%20vs%20Probability.png "With Age")
