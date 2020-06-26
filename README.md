@@ -46,4 +46,4 @@ From a business perspective,this project will address absenteeism at a company d
  Probability that a given individual is expected to be absent from work for more than 3 hours :
  
  
- ![alt text] (https://github.com/Rish59/Predicting-Absenteeism/blob/master/AgevsProbability.png "With Age")
+(https://github.com/Rish59/Predicting-Absenteeism/blob/master/Age%20vs%20Probability.png)
