@@ -42,6 +42,8 @@ From a business perspective,this project will address absenteeism at a company d
  ## Workflow:
  Preprocessing the data then make a logistic regression model save as separate files named Absenteesim_preprocessing.ipynb and my MODEL.ipynb and predict the absenteeism 
  for the fresh new data as Absenteeism_new_data.csv save it in Absenteeism_predictions.csv and use tableau as a visualization tool
+ ### tableau vizzes:https://public.tableau.com/profile/rishabh1976#!/
+     
  ## Visualizations:
  Probability that a given individual is expected to be absent from work for more than 3 hours :
  
