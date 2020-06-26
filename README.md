@@ -48,4 +48,6 @@ From a business perspective,this project will address absenteeism at a company d
  
 ()
 
-![alt text](https://github.com/Rish59/Predicting-Absenteeism/blob/master/Age%20vs%20Probability.png "With Age")
+![alt text](https://github.com/Rish59/Predicting-Absenteeism/blob/master/Images/img1.png "With Age")
+![alt text](https://github.com/Rish59/Predicting-Absenteeism/blob/master/Images/img2.png "With Reasons")
+![alt text](https://github.com/Rish59/Predicting-Absenteeism/blob/master/Images/img3.png "With Transportation expense and children")
